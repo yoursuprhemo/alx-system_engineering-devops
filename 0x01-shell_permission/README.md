@@ -1,1 +1,0 @@
-Shell permision in Linux
